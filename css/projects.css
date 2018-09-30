@@ -22,14 +22,17 @@ body {
 }
 
 .projectRow {
-	padding-top: 2em;	
+		
 }
 
 .project {
-	padding-top: 1.5em;
+	padding-top: 1em;
 	padding-bottom: 1.5em;
 	border: 1px solid #eaeaea;
 	border-radius: 15px;
+}
+.title{
+	color: #42A5F5;
 }
 
 .projectDescription {
