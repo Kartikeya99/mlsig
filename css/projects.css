@@ -1,0 +1,57 @@
+body {
+	padding-top: 70px; 
+}
+
+#navbar {
+	/*-webkit-box-shadow: 0 8px 6px -6px gray;
+	   -moz-box-shadow: 0 8px 6px -6px gray;
+			box-shadow: 0 8px 6px -6px gray;*/
+}
+
+#navbar ul li {
+	font-size: 18px;
+}
+
+.navbar-brand {
+	font-size: 26px;
+}
+
+#projectContainer {
+	margin-top: 1em;
+	padding-bottom: 4em;
+}
+
+.projectRow {
+	padding-top: 2em;	
+}
+
+.project {
+	padding-top: 1.5em;
+	padding-bottom: 1.5em;
+	border: 1px solid #eaeaea;
+	border-radius: 15px;
+}
+
+.projectDescription {
+	font-size: 16px;
+}
+
+.projectPhoto {
+	height: 200px;
+	width: 200px;
+	border-radius: 20px;
+}
+
+#customButton {
+	border-radius: 10;
+	background-color: #424242;
+	color: white;
+}
+
+#customButton:hover {
+	background-color: #212121;
+}
+
+#contactInfo {
+	color: #fafafa;
+}

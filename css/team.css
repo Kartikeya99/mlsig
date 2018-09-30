@@ -1,0 +1,42 @@
+body {
+	padding-top: 50px; 
+}
+
+#navbar {
+	/*-webkit-box-shadow: 0 8px 6px -6px gray;
+	   -moz-box-shadow: 0 8px 6px -6px gray;
+			box-shadow: 0 8px 6px -6px gray;*/
+}
+
+#navbar ul li {
+	font-size: 18px;
+}
+
+.navbar-brand {
+	font-size: 26px;
+}
+
+#customButton {
+	border-radius: 0;
+	background-color: #424242;
+	color: white;
+	margin-top: 3.5em;
+}
+
+#customButton:hover {
+	background-color: #212121;
+}
+
+#team {
+	padding-top: 2em;
+	padding-bottom: 4em;
+}
+
+.teamImage {
+	height: 150px;
+	width: 150px;
+	border-radius: 75px;
+}
+#contactInfo {
+	color: #fafafa;
+}
